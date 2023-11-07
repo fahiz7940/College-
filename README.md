@@ -36,24 +36,26 @@ My college Study material's
 <ul>
    <li><a href="https://fahiz7940.github.io/College-/Semester-3/Data-structure/Part-A/Program-1/selection-sort.cpp">Program-1</a></li>
   <li><a href="https://fahiz7940.github.io/College-/Semester-3/Data-structure/Part-A/Program-2/insertion-sort.cpp">Program-2</a></li>
-  <li><a href="https://fahiz7940.github.io/College-/Semester-3/Data-structure/Part-A/Program-3/">Program-3</a></li>
-  <li><a href="">Program-4</a></li>
-  <li><a href="">Program-5</a></li>
-  <li><a href="">Program-6</a></li>
-  <li><a href="">Program-7</a></li>
+  <li><a href="https://fahiz7940.github.io/College-/Semester-3/Data-structure/Part-A/Program-3/bubble-sort.cpp">Program-3</a></li>
+  <li><a href="https://fahiz7940.github.io/College-/Semester-3/Data-structure/Part-A/Program-4/liner-search.cpp">Program-4</a></li>
+  <li><a href="https://fahiz7940.github.io/College-/Semester-3/Data-structure/Part-A/Program-5/binary-search.cp">Program-5</a></li>
+  <li><a href="https://fahiz7940.github.io/College-/Semester-3/Data-structure/Part-A/Program-6/towers-of-hanoi.cpp">Program-6</a></li>
+  <li><a href="https://fahiz7940.github.io/College-/Semester-3/Data-structure/Part-A/Program-7/dynamic-array.cpp">Program-7</a></li>
 </ul>
 <br>
 <br>
 <hr>
 <h5>Part-B</h5>
 <ul>
-  <li><a href="">Program-1</a></li>
-  <li><a href="">Program-2</a></li>
-  <li><a href="">Program-3</a></li>
-  <li><a href="">Program-4</a></li>
-  <li><a href="">Program-5</a></li>
-  <li><a href="">Program-6</a></li>
-  <li><a href="">Program-7</a></li>
+  <li><a href="https://fahiz7940.github.io/College-/Semester-3/Data-structure/Part-B/Program-1/merge-sort.cpp">Program-1</a></li>
+  <li><a href="https://fahiz7940.github.io/College-/Semester-3/Data-structure/Part-B/Program-2/quick-sort.cpp">Program-2</a></li>
+  <li><a href="https://fahiz7940.github.io/College-/Semester-3/Data-structure/Part-B/Program-3/stack-operater.cpp">Program-3</a></li>
+  <li><a href="https://fahiz7940.github.io/College-/Semester-3/Data-structure/Part-B/Program-4/queue-operations.cpp">Program-4</a></li>
+  <li><a href="https://fahiz7940.github.io/College-/Semester-3/Data-structure/Part-B/Program-5/pastflix-expression.cpp">Program-5</a></li>
+  <li><a href="https://fahiz7940.github.io/College-/Semester-3/Data-structure/Part-B/Program-6/circlar-queue.cpp">Program-6</a></li>
+  <li><a href="https://fahiz7940.github.io/College-/Semester-3/Data-structure/Part-B/Program-7/stack-operation.cpp">Program-7</a></li>
+  <li><a href="https://fahiz7940.github.io/College-/Semester-3/Data-structure/Part-B/Program-8/queue-operation.cpp">Program-8</a></li>
 </ul>
 <br>
 <br>
+<hr>
