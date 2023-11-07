@@ -2,7 +2,7 @@
 My college Study material's 
 <h1>Semester - 3</h1>
 <h3>Lab-Programs</h3>
-<h4 style="text-align:center;">HTML</h4>
+<h4>HTML</h4>
 <h5>Part-A</h5>
 <ul>
   <li><a href=""></a>Program-1</li>
