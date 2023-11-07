@@ -1,0 +1,25 @@
+<html>
+<head>
+<title>mouse pointer</title>
+<script type="text/javascript">
+function displayPtr(evt)
+{
+var dom=document.getElementById("message")
+dom.style.left=(evt.clientX-130)+'px';
+dom.style.top=(evt.clientY-25)+'px';
+ dom.style.visibility="visible";
+}
+function hidePtr()
+{
+document.getElementById("message").style.visibility="hidden";
+}
+</script>
+</head>
+<body onmousedown="displayPtr(event);"
+onmouseup="hidePtr();">
+<p>
+<span id="message" style="color:red;position:relative;
+font-size:26pt; font-weight:bold;">You just cliked here</span>
+</p>
+</body>
+</html>
