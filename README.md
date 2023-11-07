@@ -16,7 +16,6 @@ My college Study material's
 <br>
 <br>
 <hr>
-<hr>
 <h5>Part-B</h5>
 <ul>
   <li><a href=""></a>Program-1</li>
@@ -29,6 +28,7 @@ My college Study material's
 </ul>
 <br>
 <br>
+<hr>
 <hr>
 <h4>Data Structure using C++ </h4>
 <h5>Part-A</h5>
