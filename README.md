@@ -67,6 +67,8 @@ My college Study material's
 <h5>Part-A</h5>
 <ul>
   <li><a href="https://fahiz7940.github.io/College-/Sementer-5/java-Lab/Program-1/Face.java">Program-1</a></li>
+  <li><a href="https://fahiz7940.github.io/College-/Sementer-5/java-Lab/Program-2/AppletCalc.java">Program-2</a></li>
+  <li><a href="https://fahiz7940.github.io/College-/Sementer-5/java-Lab/Program-3/FileCopy.java">Program-3</a></li>
 </ul>
 <br>
 <br>
